@@ -1,0 +1,21 @@
+
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_addhtml (5).txt相似度：0.71
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_dis_1.txt相似度：0.79
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_add.txt相似度：0.72
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_addhtml (3).txt相似度：0.90
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_del.txt相似度：0.74
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_addhtml (4).txt相似度：0.81
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_addhtml (1).txt相似度：0.72
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_dis_10.txt相似度：0.73
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_dis_15.txt相似度：0.72
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_addhtml (2).txt相似度：0.83
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_addhtml (5).txt相似度：0.71
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_dis_1.txt相似度：0.79
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_add.txt相似度：0.72
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_addhtml (3).txt相似度：0.9
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_del.txt相似度：0.74
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_addhtml (4).txt相似度：0.81
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_addhtml (1).txt相似度：0.72
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_dis_10.txt相似度：0.73
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_dis_15.txt相似度：0.72
+原文本C:/Users/22154/Desktop/SimComparing/target/classes/articles/orig.txt与orig_0.8_addhtml (2).txt相似度：0.83

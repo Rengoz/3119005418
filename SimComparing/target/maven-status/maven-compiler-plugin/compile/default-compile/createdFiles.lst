@@ -1,0 +1,6 @@
+com\lzk\function\io\utils\HtmlSpirit.class
+com\lzk\main\ArticleCompare.class
+com\lzk\Exception\TooShortException.class
+com\lzk\function\io\utils\TxtIO.class
+com\lzk\function\hamming\utils\HammingUtils.class
+com\lzk\function\simhash\utils\SimHashUtils.class
